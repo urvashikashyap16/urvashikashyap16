@@ -119,7 +119,7 @@ public class Urvashi {
 
 ### 🤝 Let's connect
 
-Open to **SDE / Java backend internships and full-time roles (2027 batch)**
+Open to **SDE / Full Stack Web Developer internships and full-time roles (2027 batch)**
 
 <a href="https://www.linkedin.com/in/urvashi-kashyap-38117522a/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
