@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6FB5,50:C86BFA,100:7F5AF0&height=260&section=header&text=Hi,%20I'm%20Urvashi%20✨&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20·%20Java%20·%20MERN%20·%20AI%20Apps&descAlignY=64&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6FB5,50:C86BFA,100:7F5AF0&height=260&section=header&text=Hi,%20I'm%20Urvashi%20✨&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MERN%20Stack%20%2F%20Full-Stack%20Developer%20·%20Software%20Engineer&descAlignY=64&descSize=20" width="100%"/>
 
 <div align="center">
 
