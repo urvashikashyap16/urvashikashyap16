@@ -28,7 +28,7 @@ public class Urvashi {
     String[] focus    = {"Backend with Java & Spring Boot", "Full-stack MERN apps", "Data Structures & Algorithms"};
     String[] certs    = {"AWS Academy Cloud Foundations", "AWS Academy Cloud Security Foundations"};
     String currently  = "Leading my major project & building a job scheduler in Spring Boot";
-    String funFact    = "I wrote a file compressor from scratch with Huffman coding";
+    String funFact    = "I built an AI interviewer that grades your answers";
 }
 ```
 
@@ -58,27 +58,28 @@ public class Urvashi {
 
 <div align="center">
 
-<a href="https://github.com/urvashikashyap16/MiniQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=MiniQ&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/urvashikashyap16/ai-interview-prep">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=ai-interview-prep&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<a href="https://github.com/urvashikashyap16/FileCompressor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=FileCompressor&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/urvashikashyap16/petal-and-bow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=petal-and-bow&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/urvashikashyap16/Web-Scrapper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=Web-Scrapper&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<a href="https://github.com/urvashikashyap16/Handwritten-Digit-Recognizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=Handwritten-Digit-Recognizer&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/urvashikashyap16/MiniQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=MiniQ&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
 </div>
 
 | Project | What it does | Stack |
 |---|---|---|
-| **MiniQ** | Web IDE for a custom data query language with multi-target code generation | JavaScript |
-| **FileCompressor** | Lossless file compression with Huffman coding: frequency analysis, tree building, bit encoding | JavaScript |
-| **Job Aggregator** | Scrapes Naukri, LinkedIn and Indeed into one feed with smart filters and analytics | Python · Flask · BeautifulSoup |
-| **Digit Recognizer** | Draw a digit, train an SVM on your own dataset, predict in real time | Python · OpenCV · Tkinter |
+| **[AI Interview Prep](https://github.com/urvashikashyap16/ai-interview-prep)** | Cross-platform app that generates interview questions with an LLM and scores free-text answers with structured feedback | React Native · Node.js · Groq (LLaMA 3.3 70B) |
+| **[Petal & Bow](https://github.com/urvashikashyap16/petal-and-bow)** | Full-stack e-commerce store with an admin dashboard: 49 products, 7 categories, cart, checkout and order tracking | MongoDB · Express · React · Node.js |
+| **[HireWizard](https://github.com/urvashikashyap16/Web-Scrapper)** | Aggregates job listings from 3 portals with filtering and deduplication, cutting manual search time by ~80% | Python · Flask · BeautifulSoup |
+| **[MiniQ](https://github.com/urvashikashyap16/MiniQ)** | Web IDE for a custom data query language with multi-target code generation | JavaScript |
+| **[FileCompressor](https://github.com/urvashikashyap16/FileCompressor)** | Lossless file compression with Huffman coding | JavaScript |
 
 ---
 
