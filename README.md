@@ -1,129 +1,138 @@
-<!-- ===================== HERO BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Urvashi%20Kashyap&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20the%20making&descAlignY=58&descSize=20" width="100%"/>
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6FB5,50:C86BFA,100:7F5AF0&height=260&section=header&text=Hi,%20I'm%20Urvashi%20✨&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20·%20Java%20·%20MERN%20·%20AI%20Apps&descAlignY=64&descSize=20" width="100%"/>
 
 <div align="center">
 
-<!-- Typing animation -->
-<a href="https://github.com/urvashikashyap16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B65CFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Graphic+Era+Hill+University;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+MERN+Stack;AWS+Cloud+%26+Security+Foundations;Solving+DSA+in+C%2B%2B+every+day;Building+real-world+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=700&color=E879F9&center=true&vCenter=true&width=620&lines=I+build+apps+people+actually+use+%F0%9F%92%9C;AI+interview+coach+%E2%80%A2+E-commerce+%E2%80%A2+Job+aggregator;Final-year+B.Tech+CSE+%40+Graphic+Era+Hill+University;AWS+Cloud+%26+Security+Foundations+certified;Open+to+SDE+roles+%E2%80%94+2027+batch+%F0%9F%9A%80" alt="typing intro" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/urvashi-kashyap-38117522a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-Explore-C86BFA?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Status-Open_to_work-FF6FB5?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=urvashikashyap16&style=for-the-badge&color=7F5AF0&label=VISITORS"/>
+
+</div>
 
 <br/>
 
-<!-- Nav-style badges -->
-<a href="https://www.linkedin.com/in/urvashi-kashyap-38117522a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/urvashikashyap16?tab=repositories"><img src="https://img.shields.io/badge/Projects-7F00FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=urvashikashyap16&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 🌸 About Me
 
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+I'm a final-year **Computer Science** student who loves turning ideas into products that run, not just tutorials. I've built an **AI interview coach**, a full **MERN e-commerce store**, and a **job aggregator** that saves hours of searching.
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+- 💼 Interned as a **Software Engineer at Marrymo**, building a React Native app
+- 🔭 Currently building **SkillMatch**, my major project (as team lead)
+- ☕ Leveling up in **Java & Spring Boot** for backend roles
+- 🧠 Solving **DSA in C++** every day
+- ☁️ **AWS Academy** Cloud Foundations & Cloud Security Foundations
 
-```java
-public class Urvashi {
-    String role       = "Final-year B.Tech CSE Student";
-    String university = "Graphic Era Hill University, Dehradun";
-    String[] focus    = {"Backend with Java & Spring Boot", "Full-stack MERN apps", "Data Structures & Algorithms"};
-    String[] certs    = {"AWS Academy Cloud Foundations", "AWS Academy Cloud Security Foundations"};
-    String currently  = "Leading my major project & building a job scheduler in Spring Boot";
-    String funFact    = "I built an AI interviewer that grades your answers";
-}
-```
+</td>
+<td width="40%" align="center" valign="middle">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashikashyap16&layout=donut&theme=radical&hide_border=true&bg_color=00000000&title_color=E879F9&text_color=c9d1d9&langs_count=6" width="100%"/>
 
-## 🛠️ Tech Stack
+</td>
+</tr>
+</table>
 
-<div align="center">
+<br/>
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,js,python,html,css&theme=dark" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,flask,opencv&theme=dark" />
-
-**Databases, Cloud & Tools**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🎯 AI Interview Prep
+<sub>Cross-platform mobile app</sub>
+
+Practice interviews with **AI-generated questions** and get every answer **scored with feedback** by LLaMA 3.3 70B.
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square"/>
+
+<br/><br/>
+
+[**View code →**](https://github.com/urvashikashyap16/ai-interview-prep)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌸 Petal & Bow
+<sub>Full-stack e-commerce platform</sub>
+
+A complete **storefront + admin dashboard** with 49 products, live search, cart, checkout and **order tracking**.
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+<br/><br/>
+
+[**View code →**](https://github.com/urvashikashyap16/petal-and-bow)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧙 HireWizard
+<sub>Job search automation</sub>
+
+Scrapes **3 job portals** into one dashboard with filters and deduplication, cutting search time by **~80%**.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-028090?style=flat-square"/>
+
+<br/><br/>
+
+[**View code →**](https://github.com/urvashikashyap16/HireWizard)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+## 🛠️ My Toolbox
+
 <div align="center">
 
-<a href="https://github.com/urvashikashyap16/ai-interview-prep">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=ai-interview-prep&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/urvashikashyap16/petal-and-bow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=petal-and-bow&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/urvashikashyap16/HireWizard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=HireWizard&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/urvashikashyap16/MiniQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=MiniQ&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,express,spring,flask,mongodb,mysql,aws,git,github,vscode,figma&perline=9&theme=dark" />
 
 </div>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[AI Interview Prep](https://github.com/urvashikashyap16/ai-interview-prep)** | Cross-platform app that generates interview questions with an LLM and scores free-text answers with structured feedback | React Native · Node.js · Groq (LLaMA 3.3 70B) |
-| **[Petal & Bow](https://github.com/urvashikashyap16/petal-and-bow)** | Full-stack e-commerce store with an admin dashboard: 49 products, 7 categories, cart, checkout and order tracking | MongoDB · Express · React · Node.js |
-| **[HireWizard](https://github.com/urvashikashyap16/HireWizard)** | Aggregates job listings from 3 portals with filtering and deduplication, cutting manual search time by ~80% | Python · Flask · BeautifulSoup |
-| **[MiniQ](https://github.com/urvashikashyap16/MiniQ)** | Web IDE for a custom data query language with multi-target code generation | JavaScript |
-| **[FileCompressor](https://github.com/urvashikashyap16/FileCompressor)** | Lossless file compression with Huffman coding | JavaScript |
+<br/>
 
----
-
-## 🔨 Currently Building
-
-- 🎯 **SkillMatch** (major project, team lead): adaptive practice queue using spaced repetition + job-fair booth matching using stable matching
-- ⚙️ **QueueForge**: a job queue & scheduler in Java / Spring Boot
-- 🧠 **DSA in C++**: daily LeetCode practice
-
----
-
-## 📊 GitHub Stats
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=urvashikashyap16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashikashyap16&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img src="https://streak-stats.demolab.com?user=urvashikashyap16&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=urvashikashyap16&show_icons=true&theme=radical&hide_border=true&border_radius=14&include_all_commits=true&count_private=true&title_color=E879F9&icon_color=FF6FB5" />
+<img height="165" src="https://streak-stats.demolab.com?user=urvashikashyap16&theme=radical&hide_border=true&border_radius=14&ring=E879F9&fire=FF6FB5&currStreakLabel=E879F9" />
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urvashikashyap16/urvashikashyap16/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urvashikashyap16/urvashikashyap16/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/urvashikashyap16/urvashikashyap16/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
----
-
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 <div align="center">
 
-### 🤝 Let's connect
+### 💌 Let's build something together
 
-Open to **SDE / Full Stack Web Developer internships and full-time roles (2027 batch)**
+I'm open to **Software Engineer, Java backend and full-stack roles**. Let's talk!
 
-<a href="https://www.linkedin.com/in/urvashi-kashyap-38117522a/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/urvashi-kashyap-38117522a/"><img src="https://img.shields.io/badge/Say_hi_on_LinkedIn-FF6FB5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:C86BFA,100:FF6FB5&height=120&section=footer" width="100%"/>
