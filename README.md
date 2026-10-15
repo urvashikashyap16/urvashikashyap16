@@ -27,7 +27,7 @@ I'm a final-year **Computer Science** student who loves turning ideas into produ
 
 - 💼 Interned as a **Software Engineer at Marrymo**, building a React Native app
 - 🔭 Currently building **SkillMatch**, my major project (as team lead)
-- ☕ Leveling up in **Java & Spring Boot** for backend roles
+- ☕ Building backend systems in **Java & Spring Boot**, like **QueueForge**
 - 🧠 Solving **DSA in C++** every day
 - ☁️ **AWS Academy** Cloud Foundations & Cloud Security Foundations
 
@@ -47,7 +47,7 @@ I'm a final-year **Computer Science** student who loves turning ideas into produ
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🎯 AI Interview Prep
 <sub>Cross-platform mobile app</sub>
@@ -63,7 +63,7 @@ Practice interviews with **AI-generated questions** and get every answer **score
 [**View code →**](https://github.com/urvashikashyap16/ai-interview-prep)
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🌸 Petal & Bow
 <sub>Full-stack e-commerce platform</sub>
@@ -80,7 +80,26 @@ A complete **storefront + admin dashboard** with 49 products, live search, cart,
 [**View code →**](https://github.com/urvashikashyap16/petal-and-bow)
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### ⚙️ QueueForge
+<sub>Distributed job queue & scheduler</sub>
+
+A mini **Sidekiq / SQS**: safe concurrent workers, **automatic retries**, dead-letter queue, crash recovery and a **live React dashboard**.
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+<br/><br/>
+
+[**View code →**](https://github.com/urvashikashyap16/queueforge)
+
+</td>
+<td width="50%" valign="top" align="center">
 
 ### 🧙 HireWizard
 <sub>Job search automation</sub>
@@ -106,7 +125,7 @@ Scrapes **3 job portals** into one dashboard with filters and deduplication, cut
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,express,spring,flask,mongodb,mysql,aws,git,github,vscode,figma&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,express,spring,flask,tailwind,mongodb,mysql,postgres,docker,aws,git,github,vscode&perline=10&theme=dark" />
 
 </div>
 
