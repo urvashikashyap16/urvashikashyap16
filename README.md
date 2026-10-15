@@ -64,8 +64,8 @@ public class Urvashi {
 <a href="https://github.com/urvashikashyap16/petal-and-bow">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=petal-and-bow&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<a href="https://github.com/urvashikashyap16/Web-Scrapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=Web-Scrapper&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/urvashikashyap16/HireWizard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=HireWizard&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/urvashikashyap16/MiniQ">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=urvashikashyap16&repo=MiniQ&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -77,7 +77,7 @@ public class Urvashi {
 |---|---|---|
 | **[AI Interview Prep](https://github.com/urvashikashyap16/ai-interview-prep)** | Cross-platform app that generates interview questions with an LLM and scores free-text answers with structured feedback | React Native · Node.js · Groq (LLaMA 3.3 70B) |
 | **[Petal & Bow](https://github.com/urvashikashyap16/petal-and-bow)** | Full-stack e-commerce store with an admin dashboard: 49 products, 7 categories, cart, checkout and order tracking | MongoDB · Express · React · Node.js |
-| **[HireWizard](https://github.com/urvashikashyap16/Web-Scrapper)** | Aggregates job listings from 3 portals with filtering and deduplication, cutting manual search time by ~80% | Python · Flask · BeautifulSoup |
+| **[HireWizard](https://github.com/urvashikashyap16/HireWizard)** | Aggregates job listings from 3 portals with filtering and deduplication, cutting manual search time by ~80% | Python · Flask · BeautifulSoup |
 | **[MiniQ](https://github.com/urvashikashyap16/MiniQ)** | Web IDE for a custom data query language with multi-target code generation | JavaScript |
 | **[FileCompressor](https://github.com/urvashikashyap16/FileCompressor)** | Lossless file compression with Huffman coding | JavaScript |
 
